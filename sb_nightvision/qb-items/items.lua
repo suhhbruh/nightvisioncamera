@@ -1,0 +1,3 @@
+	['night_vision_camera']        = {['name'] = 'night_vision_camera', 						['label'] = 'Night Vision Camera',					['weight'] = 1000,			['type'] = 'item',			['image'] = 'night_vision_camera.png',					['unique'] = true,		['useable'] = false,		['shouldClose'] = true,		['combinable'] = nil,		['description'] = 'Oh, you plan on running huh?.'},
+	['advanced_night_vision_camera']        = {['name'] = 'advanced_night_vision_camera', 	['label'] = 'Advanced Night Vision Camera',		['weight'] = 1000,			['type'] = 'item',			['image'] = 'advanced_night_vision_camera.png',		['unique'] = true,		['useable'] = false,		['shouldClose'] = true,		['combinable'] = nil,		['description'] = 'The Best Night Vision Camera Money Can Buy.'},
+	
